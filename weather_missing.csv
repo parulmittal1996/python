@@ -1,0 +1,10 @@
+day,Temperature,WindSpeedMPH,Events
+1/1/2016,38,8,rain
+1/2/2016,,7,sunny
+1/3/2016,40,,snow
+1/4/2016,,9,
+1/5/2016,20,,rain
+1/6/2016,,,sunny
+1/7/2016,,,
+1/8/2016,39,,cloudy
+1/9/2016,44,8,Rain
